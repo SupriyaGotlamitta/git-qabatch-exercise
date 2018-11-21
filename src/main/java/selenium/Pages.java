@@ -3,7 +3,7 @@ package selenium;
 import org.openqa.selenium.WebDriver;
 
 import selenium.configurations.TypedProperties;
-
+//test
 public abstract class Pages extends SeleniumFunctions {
 
 	public Pages(final WebDriver driver) {

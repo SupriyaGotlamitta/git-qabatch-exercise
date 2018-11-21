@@ -8,7 +8,7 @@ import java.io.InputStream;
 import java.util.Properties;
 
 /**
- * provides type-safe access to properties.
+ * provides type-safe access to properties. test
  */
 public class TypedProperties {
 	private final Properties properties = new Properties();
